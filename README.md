@@ -4,7 +4,7 @@
 1. Rename "PPSSPP-info.plist" to "info.plist"  
 2. Open ipa in 7zip  
 3. Replace file in Payload/PPSSPP.app/info.plist  
-4. Install ipa via sidloadly or altstore 
+4. Install ipa via [sidloadly](https://sideloadly.io/) or [AltStore (recommended)](https://altstore.io) 
 
 
 
